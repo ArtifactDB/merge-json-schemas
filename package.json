@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "name": "merge-json-schemas",
+  "description": "Merge JSON schemas together by resolving '$ref' references.",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+      "merge": "src/merge.js"
+  }
+}
